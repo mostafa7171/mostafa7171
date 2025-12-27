@@ -1,85 +1,85 @@
 # 👋 Hi, I'm Mostafa Zolfaghari
 
-🚀 Senior Backend Engineer | Python & Django  
-Designing scalable, secure, and production-ready backend systems
+**Senior Backend Engineer (Python & Django)**  
+Helping startups and businesses build **reliable, scalable, and secure backend systems**
 
 ---
 
-## 🧠 About Me
+## 💼 Who I Am
 
-I'm a backend engineer with deep experience in building **mission-critical backend systems** using Python and Django.
+I'm a backend engineer with strong experience in **designing and delivering production-ready backend systems** for real-world products.
 
-I focus on:
-- clean architecture
-- performance & scalability
+I work with founders, startups, and teams who need:
+- a backend that **scales**
+- clean and maintainable code
 - secure APIs
-- long-term maintainability
+- someone who can **take ownership** and deliver with confidence
 
-I enjoy solving complex backend problems, designing systems end-to-end, and turning real-world requirements into reliable software.
-
----
-
-## 🧩 What I Build
-
-- Scalable backend systems for real-world products
-- RESTful APIs with complex business logic
-- Role-based access control & authentication systems
-- Multi-database architectures
-- Background task processing & automation
-- AI-assisted backend services (pragmatic & production-ready)
+I focus on long-term value, not quick hacks.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 How I Can Help You
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white)
+I can help you with:
 
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+- ✅ Designing backend architecture from scratch
+- ✅ Building RESTful APIs with complex business logic
+- ✅ Authentication, authorization & role-based access control (RBAC)
+- ✅ Performance optimization & scalability improvements
+- ✅ Background jobs, task queues & automation
+- ✅ Database design & optimization
+- ✅ Fixing and refactoring legacy Django codebases
+- ✅ Backend support for AI-powered features (production-ready, not experimental)
 
-### Backend Infrastructure
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+---
 
-### Architecture & Practices
+## 🛠 Technologies I Work With
+
+**Languages & Frameworks**
+- Python
+- Django
+- Django REST Framework
+
+**Databases & Infrastructure**
+- PostgreSQL, MySQL
+- Redis
+- Celery
+- Docker
+- Linux
+
+**Engineering Practices**
 - Clean Architecture & Modular Design
-- RESTful API Design
-- JWT & Role-Based Authorization
-- Background Jobs & Task Queues
+- Secure API Development (JWT, RBAC)
+- Scalable System Design
 - Performance Optimization
-- CI/CD & Automation
-- Production Debugging & Monitoring
+- CI/CD & Production Debugging
 
 ---
 
-## 🤝 How I Work
+## 🧠 What Clients Like About Working With Me
 
-- Ownership mindset
-- Strong architectural decision-making
-- Code quality & review focused
-- Clear technical communication
-- Comfortable with complex systems & constraints
+- Clear and honest communication
+- Strong ownership and responsibility
+- Clean, well-documented code
+- Thoughtful architectural decisions
+- On-time delivery with realistic estimates
+- Focus on business goals, not just code
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa7171&show_icons=true&hide_title=true)
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- 📧 Email: mostafazolfaghari71@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/mostafa-zolfaghari-b619b7290
-- 🧑‍💻 GitHub: https://github.com/mostafa7171
+- 📧 Email: **mostafazolfaghari71@gmail.com**
+- 💼 LinkedIn: [Mostafa Zolfaghari](https://www.linkedin.com/in/mostafa-zolfaghari-b619b7290)
+- 🧑‍💻 GitHub: [github.com/mostafa7171](https://github.com/mostafa7171)
 
 ---
 
-⭐ Always interested in building high-quality backend systems and solving hard problems.
+⭐ If you're looking for a backend engineer who delivers **clean, scalable, and dependable solutions**, let's talk.
